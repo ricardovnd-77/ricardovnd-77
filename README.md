@@ -28,6 +28,14 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,windows,postgres,md&theme=dark&perline=8" alt="Tech Stack Icons" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET MAUI" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
 ---
 
 ## 📂 ARQUIVO DE PROJETOS
@@ -62,10 +70,10 @@
 
 ---
 
-## 🐍 MAPA DE CONTRIBUIÇÕES E STREAK
+## 🐍 MAPA DE CONTRIBUIÇÕES
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ricardovnd-77&theme=tokyonight&hide_border=true&border_radius=8" width="80%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardovnd-77&theme=tokyo-night&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -73,8 +81,8 @@
 ## 🌐 ESTABELECER CONEXÃO
 
 <p align="center">
-  <a href="https://linkedin.com/in/ricardo-vanderson-b0ba19322" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/ricardo-vanderson-b0ba19322">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
