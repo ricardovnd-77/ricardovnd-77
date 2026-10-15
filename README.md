@@ -52,10 +52,6 @@
 ## 📊 TELEMETRIA DO GITHUB
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ricardovnd-77&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ricardovnd-77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FF00&text_color=9f9f9f&icon_color=00FF00" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardovnd-77&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FF00&text_color=9f9f9f" width="48%" alt="Top Languages" />
 </p>
@@ -81,5 +77,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=100&section=footer&animation=twinkling" width="100%"/>
   <br>
-  <code>// END_OF_TRANSMISSION //</code>
+ 
 </p>
