@@ -73,7 +73,7 @@
 ## 🐍 MAPA DE CONTRIBUIÇÕES
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardovnd-77&theme=tokyo-night&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=ricardovnd-77&theme=tokyonight&hide_border=true&border_radius=8" width="80%" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -81,13 +81,13 @@
 ## 🌐 ESTABELECER CONEXÃO
 
 <p align="center">
-  <a href="https://linkedin.com/in/ricardo-vanderson-b0ba19322">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/ricardo-vanderson-b0ba19322" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=100&section=footer&animation=twinkling" width="100%"/>
   <br>
-  <code>// END_OF_TRANSMISSION //</code>
+  
 </p>
