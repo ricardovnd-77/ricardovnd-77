@@ -1,6 +1,6 @@
 <!-- Banner Principal com Efeito de Inicialização -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=>+SYSTEM_BOOT+INITIATED...;>+LOADING_USER_PROFILE:+RICARDO_COSTA...;>+ACCESS_GRANTED...;>+WELCOME_TO_THE_MAINFRAME." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=>+SYSTEM_BOOT+INITIATED...;>+LOADING_USER_PROFILE:+RICARDO_COSTA...;>+ACCESS_GRANTED...;>+WELCOME_TO_THE_MAINFRAME." alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,8 +13,8 @@
 ```bash
 root@mainframe:~# cat user_info.txt
 
-[+] Nome Legal: Ricardo Vanderson Apolinário Costa
+[+] Nome: Ricardo Vanderson Apolinário Costa
 [+] Ocupação: Estudante de Análise e Desenvolvimento de Sistemas @ Fatec Cruzeiro
 [+] Especialização Primária: Engenharia de Software, Arquitetura BCE e UML
 [+] Foco de Desenvolvimento: C# & .NET MAUI (Cross-platform)
-[+] Status Atual: Otimizando algoritmos no Beecrowd e construindo protótipos.
+[+] Status Atual: Otimizando algoritmos no Beecrowd e desenvolvendo o SIGA-CEAN.
