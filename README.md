@@ -1,6 +1,6 @@
 <!-- Banner Principal com Efeito de Inicialização -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=>+SYSTEM_BOOT+INITIATED...;>+LOADING_USER_PROFILE:+RICARDO_COSTA...;>+ACCESS_GRANTED...;>+WELCOME_TO_THE_MAINFRAME." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=SYSTEM_BOOT_INITIATED...;LOADING_PROFILE...;ACCESS_GRANTED...;WELCOME_TO_MAINFRAME." alt="Typing SVG" />
 </div>
 
 <p align="center">
