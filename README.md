@@ -73,6 +73,9 @@
 ## 🐍 MAPA DE CONTRIBUIÇÕES
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/ricardovnd-77/ricardovnd-77/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</p>
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardovnd-77&theme=tokyo-night&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
