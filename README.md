@@ -1,4 +1,3 @@
-<!-- Banner Principal com Efeito de Inicialização -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=SYSTEM_BOOT_INITIATED...;LOADING_PROFILE...;ACCESS_GRANTED...;WELCOME_TO_MAINFRAME." alt="Typing SVG" />
 </div>
@@ -7,8 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=120&section=header&animation=twinkling" width="100%"/>
 </p>
 
-<!-- Seção Sobre Mim em formato de Terminal -->
-## 🤖 >_ STATUS_DO_SISTEMA: ONLINE
+## 🤖 STATUS DO SISTEMA: ONLINE
 
 ```bash
 root@mainframe:~# cat user_info.txt
